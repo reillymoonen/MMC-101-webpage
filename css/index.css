@@ -1,0 +1,298 @@
+/*body color and font*/
+body {
+  margin: auto;
+  color: #000;
+  font-family: "Playfair Display";
+  background-color: #e6cb9e;
+}
+
+.wrapper {
+    height: 0%;
+}
+
+/*box padding*/
+.box {
+  padding: 0.1px;
+  padding-bottom: 130px;
+}
+
+
+/*line style*/
+.line {
+  height: 1.5px;
+  width: 112.2%;
+  background-color: #cfae34;
+  border: none;
+  position: relative;
+  top: 30px;
+  left: -90px;
+}
+
+/*second line style*/
+.second-line {
+  height: 2px;
+  background-color: #cfae34;
+  border: none;
+  position: relative;
+  right: 10%;
+  top: -20px;
+  width: 120%;
+}
+
+/*second nav style*/
+.second-nav {
+  background-color: black;
+  padding: 138px;
+}
+
+
+/*header image style*/
+.header-image {
+  scale: 120%;
+  position: relative;
+  top: 80px;
+}
+
+/*footer text position*/
+.footer {
+  text-align: center;
+}
+
+/*button style*/
+.nav {
+  padding: 10px 0px 0px 50px;
+  position: relative;
+  top: -7px;
+}
+
+.nav-home {
+  padding: 10px -10px 10px 80px;
+  position: relative;
+  top: -7px;
+}
+
+.nav-style {
+  color: #cfae34;
+  font-weight: bolder;
+  font-size: 120%;
+  text-decoration: none;
+  position: relative;
+  left: 700px;
+}
+/* /button style*/
+
+div#logo-image {
+  scale: 70%;
+  position: relative;
+  top: -120px;
+}
+
+div#leftColumn {
+  float:left;
+  width: 50%;
+  background-color: #E6CB9E;
+  }
+
+div#rightColumn {
+  float:right;
+  width: 50%;
+  background-color: #E6CB9E;
+  }
+
+div#footer {
+  clear: left;
+  width: 100%;
+  background-color: black;
+  border: black dotted 1px;
+  position: relative; 
+  top: 118px;
+  }
+
+div#leftColumn img,
+div#rightColumn img {
+  border-radius: 20px;
+  width: 100%;
+  }
+
+div#leftColumn p,
+div#rightColumn p {
+  font-size: xx-large;
+  margin-left: 24px;
+  }
+
+div#leftColumn p.button,
+div#rightColumn p.button {
+  text-align: center;
+  font-size: large;
+  }
+
+div#footer p {
+  text-align: center;
+  }
+
+/*color*/
+.logo,
+.banner,
+.footer {
+  background-color: #000000;
+  padding: 45px;
+}
+
+.img-side {
+  border-radius: 50%;
+  max-width: 85%;
+  height: auto;
+  box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.8);
+  margin-left: 40px;
+}
+
+.contact {
+  width: 100%;
+}
+
+.main-style {
+  padding: 0.1px;
+  padding-bottom: 130px;
+  font-size: xx-large;
+  text-decoration: none;
+  color: black;
+}
+
+/*order button position and color*/
+.order-button-style {
+  position: relative;
+  left: 40%;
+  top: -7px;
+  border: 2px solid black;
+  background-color: black;
+  color: #cfae34;
+  font-weight: 900;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+/*second order button position and color*/
+.second-order-button-style {
+  position: relative;
+  left: 40%;
+  top: -10px;
+  border: 2px solid black;
+  background-color: black;
+  color: #cfae34;
+  font-weight: 900;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+/*hover color*/
+.success:hover {
+  background-color: #3d3d3d;
+  color: #cfae34;
+}
+
+
+/*footer hight*/
+.footer {
+  height: 0.1px;
+}
+
+/*box banner padding, position and color*/
+.box-banner {
+  padding: 0.1px;
+  padding-bottom: 60px;
+  background-color: #000000;
+  position: relative;
+  right: -670;
+  color: #fff;
+}
+
+.order-form {
+  position: relative;
+  left: 34%;
+}
+/*footer style*/
+.box-footer {
+  padding: 0.1px;
+  padding-bottom: 130px;
+  text-align: center;
+  position: relative;
+  color: #fff;
+  background-color: #000000;
+  height: 0.1px;
+}
+
+/*two footer style*/
+.second-box-footer {
+  padding: 0.1px;
+  padding-bottom: 130px;
+  text-align: center;
+  position: relative;
+  color: #fff;
+  background-color: #000000;
+  height: 0.1px;
+}
+
+/*three footer style*/
+.third-box-footer {
+  padding: 0.1px;
+  padding-bottom: 130px;
+  text-align: center;
+  position: relative;
+  top: 600px;
+  color: #fff;
+  background-color: #000000;
+  height: 0.1px;
+}
+
+/*fourth footer style*/
+.fourth-box-footer {
+  padding: 0.1px;
+  padding-bottom: 130px;
+  text-align: center;
+  position: relative;
+  color: #fff;
+  background-color: #000000;
+  height: 0.1px;
+}
+
+/*position*/
+.pupcake {
+  position: relative;
+  left: 19%;
+}
+
+/*position*/
+.pupcake2 {
+  position: relative;
+  left: 19%;
+}
+
+/*position*/
+.pupcake3 {
+  position: relative;
+  left: 19%;
+}
+
+/*page color and size style*/
+.page-nav-style {
+  color: #cfae34;
+  font-weight: bolder;
+  font-size: 120%;
+  text-decoration: none;
+  border: 2px solid black;
+  padding: 14px 28px;
+  background-color: #000;
+  border-radius: 6px;
+}
+
+/*contact form style*/
+.contact-form {
+  position: absolute;
+  left: 640px;
+}
